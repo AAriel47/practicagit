@@ -9,6 +9,7 @@ dddddd
 
 rrrt
 clear
+<<<<<<< HEAD
  
  pwd
  clear
@@ -24,3 +25,7 @@ clear
  git config --global user.name "Alejandro ariel uñate"
  git config --global user.email "alejandroarielunate@gmail.com"
  git config --golbal core.editor "Dreamweaver --wait"
+=======
+autor alejandro ariel romero
+ 
+>>>>>>> secundaria
