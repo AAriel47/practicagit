@@ -1,0 +1,7 @@
+@charset "utf-8";
+p:nth-child(1){background-color:#D49A9B;color:red;text-align:center;}
+p:nth-child(2){background-color:#EFEB94;color:blue;text-align:center;}
+p:nth-child(3){background-color:#9AD497;color:yellow;text-align:center;}
+p:nth-child(4){background-color:#89F1F3;color:green;text-align:center;}
+center:first-of-type{background-color:red;}
+center:only-child{background-color:blue;color:white;text-align:center;}
