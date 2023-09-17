@@ -9,7 +9,7 @@ dddddd
 
 rrrt
 clear
-<<<<<<< HEAD
+<<<<<<< HEAD dajeuer
  
  pwd
  clear
