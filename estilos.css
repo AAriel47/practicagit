@@ -6,3 +6,5 @@ p:nth-child(4){background-color:#89F1F3;color:green;text-align:center;}
 center:first-of-type{background-color:red;}
 center:only-child{background-color:blue;color:white;text-align:center;}
 section :not(p){color:#F407EB; text-align: center;background-color:#10A30E}
+span{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; font-size: 2em; font-weight:bolder; font-style:italic;}
+section{font: italic bold 32px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; border: 12px solid black;}
